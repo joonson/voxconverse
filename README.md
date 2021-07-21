@@ -4,6 +4,8 @@ VoxConverse is an audio-visual diarisation dataset consisting of multispeaker cl
 Updates and additional information about the dataset can be found at our [website](http://www.robots.ox.ac.uk/~vgg/data/voxconverse/index.html).
 
 ### Version 0.0.2
+Please note that the number of wavfiles in test set are different from the number of test files in VoxSRC2020 challenge. There are 216 files on dev set and 232 files on test set.
+
 #### Audio files
 
 Dev set audio files can be downloaded from [here](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/data/voxconverse_dev_wav.zip). 
