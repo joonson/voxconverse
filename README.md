@@ -3,14 +3,15 @@
 VoxConverse is an audio-visual diarisation dataset consisting of multispeaker clips of human speech, extracted from YouTube videos.
 Updates and additional information about the dataset can be found at our [website](http://www.robots.ox.ac.uk/~vgg/data/voxconverse/index.html).
 
-### Version 0.0.1 
+### Version 0.0.2
 #### Audio files
 
-Audio files can be downloaded from [here](http://www.robots.ox.ac.uk/~vgg/data/voxconverse/data/voxconverse_dev_wav.zip). 
+Development set audio files can be downloaded from [here](http://www.robots.ox.ac.uk/~vgg/data/voxconverse/data/voxconverse_dev_wav.zip). 
+Test set audio files can be downloaded from [here](http://www.robots.ox.ac.uk/~vgg/data/voxconverse/data/voxconverse_test_wav.zip)
 
 #### Speaker Diarisation annotations 
 
-Annotations are provided as Rich Transcription Time Marked (RTTM) files and can be found in the ```dev``` folder. 
+Annotations are provided as Rich Transcription Time Marked (RTTM) files and can be found in the ```dev```  and ```test``` folder. 
 
 #### Citation
 
