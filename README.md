@@ -6,7 +6,7 @@ Updates and additional information about the dataset can be found at our [websit
 ### Version 0.0.2
 #### Audio files
 
-Development set audio files can be downloaded from [here](http://www.robots.ox.ac.uk/~vgg/data/voxconverse/data/voxconverse_dev_wav.zip). 
+Dev set audio files can be downloaded from [here](http://www.robots.ox.ac.uk/~vgg/data/voxconverse/data/voxconverse_dev_wav.zip). 
 Test set audio files can be downloaded from [here](http://www.robots.ox.ac.uk/~vgg/data/voxconverse/data/voxconverse_test_wav.zip)
 
 #### Speaker Diarisation annotations 
