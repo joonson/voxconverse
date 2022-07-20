@@ -3,6 +3,10 @@
 VoxConverse is an audio-visual diarisation dataset consisting of multispeaker clips of human speech, extracted from YouTube videos.
 Updates and additional information about the dataset can be found at our [website](http://www.robots.ox.ac.uk/~vgg/data/voxconverse/index.html).
 
+
+### Version 0.0.3
+We have recently detected an error in some of our test rttm files. Please use the 0.0.3 version for more accurate labels.
+
 ### Version 0.0.2
 Please note that the number of wavfiles in test set are different from the number of test files in VoxSRC2020 challenge. There are 216 files on dev set and 232 files on test set.
 
@@ -23,7 +27,7 @@ Please cite the following if you make use of the dataset.
 @article{chung2020spot,
   title={Spot the conversation: speaker diarisation in the wild},
   author={Chung, Joon Son and Huh, Jaesung and Nagrani, Arsha and Afouras, Triantafyllos and Zisserman, Andrew},
-  journal={arXiv preprint arXiv:2007.01216},
+  booktitle={Interspeech},
   year={2020}
 }
 ```
