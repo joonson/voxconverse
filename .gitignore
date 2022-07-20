@@ -2,6 +2,9 @@
 *.txt
 *.json
 core.*
+*.zip
+*.csv
+*.check
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
