@@ -8,7 +8,7 @@ Updates and additional information about the dataset can be found at our [websit
 We have recently detected an error in some of our test rttm files. Please use the 0.3 version for more accurate labels.
 
 ### Version 0.2
-Please note that the number of wavfiles in test set are different from the number of test files in VoxSRC2020 challenge. There are 216 files on dev set and 232 files on test set.
+If you want to see the previous version, please go to the ver0.2 branch in this repository.
 
 #### Audio files
 
