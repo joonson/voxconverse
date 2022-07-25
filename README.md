@@ -3,8 +3,9 @@
 VoxConverse is an audio-visual diarisation dataset consisting of multispeaker clips of human speech, extracted from YouTube videos.
 Updates and additional information about the dataset can be found at our [website](http://www.robots.ox.ac.uk/~vgg/data/voxconverse/index.html).
 
-### Version 0.0.2
+### Version 0.2
 Please note that the number of wavfiles in test set are different from the number of test files in VoxSRC2020 challenge. There are 216 files on dev set and 232 files on test set.
+**If you want to use the current version, please go to main branch**
 
 #### Audio files
 
