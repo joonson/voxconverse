@@ -5,7 +5,7 @@ Updates and additional information about the dataset can be found at our [websit
 
 
 ### Version 0.3
-We have recently detected an error in some of our test rttm files. Please use the 0.3 version for more accurate labels.
+We have recently detected an error in some of our test rttm files. They are fixed in this master branch. Please use the 0.3 version for more accurate labels.
 
 ### Version 0.2
 If you want to see the previous version, please go to the ver0.2 branch in this repository.
