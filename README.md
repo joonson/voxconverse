@@ -15,6 +15,19 @@ If you want to see the previous version, please go to the ver0.2 branch in this 
 Dev set audio files can be downloaded from [here](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/data/voxconverse_dev_wav.zip). 
 Test set audio files can be downloaded from [here](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/data/voxconverse_test_wav.zip)
 
+For getting durations of audio in csv format (can be used in a dataframe later) run in terminal:
+```shell
+# package for using soxi
+apt -y install sox
+
+# cd into the ./voxconverse_test_wav/audio directory and run
+# check one file
+soxi ./audiofilename.wav
+# add all to csv
+for file in *.wav ; do echo -ne "${file}, " >> duration.csv ; soxi -d "${file}" >> duration.csv ;  done
+```
+
+
 #### Speaker Diarisation annotations 
 
 Annotations are provided as Rich Transcription Time Marked (RTTM) files and can be found in the ```dev```  and ```test``` folder. 
